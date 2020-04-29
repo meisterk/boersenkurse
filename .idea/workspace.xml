@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="814e4b96-c6a2-4667-9af1-a7412e954ec6" name="Default Changelist" comment="" />
+    <list default="true" id="814e4b96-c6a2-4667-9af1-a7412e954ec6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/test/java/de/kohnlehome/MaxKursAnstiegFallTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/de/kohnlehome/MaxKursAnstiegFallTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -115,12 +117,20 @@
       <option name="project" value="LOCAL" />
       <updated>1588159220591</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Add UML-Diagram">
+      <created>1588160241253</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1588160241253</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add Tests" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Tests" />
+    <MESSAGE value="Add UML-Diagram" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add UML-Diagram" />
   </component>
   <component name="WindowStateProjectService">
     <state x="418" y="184" width="800" height="672" key="#Project_Structure" timestamp="1588152649888">
@@ -132,10 +142,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="589" y="227" width="374" height="576" key="#com.intellij.ide.util.MemberChooser/1920.0.1920.1080/0.0.1920.1040@0.0.1920.1040" timestamp="1588157323498" />
-    <state x="558" y="111" width="794" height="851" key="CommitChangelistDialog2" timestamp="1588159219911">
+    <state x="558" y="111" width="794" height="851" key="CommitChangelistDialog2" timestamp="1588160240803">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="558" y="111" width="794" height="851" key="CommitChangelistDialog2/1920.0.1920.1080/0.0.1920.1040@0.0.1920.1040" timestamp="1588159219911" />
+    <state x="558" y="111" width="794" height="851" key="CommitChangelistDialog2/1920.0.1920.1080/0.0.1920.1040@0.0.1920.1040" timestamp="1588160240803" />
     <state x="820" y="439" key="Github.ShareDialog" timestamp="1588151820922">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -164,9 +174,9 @@
     </state>
     <state width="1586" height="243" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583863408317" />
     <state width="1899" height="26" key="GridCell.Tab.0.right/1920.0.1920.1080/0.0.1920.1040@0.0.1920.1040" timestamp="1588159096609" />
-    <state x="555" y="275" width="800" height="523" key="Vcs.Push.Dialog.v2" timestamp="1588159223311">
+    <state x="555" y="275" width="800" height="523" key="Vcs.Push.Dialog.v2" timestamp="1588160244065">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="555" y="275" width="800" height="523" key="Vcs.Push.Dialog.v2/1920.0.1920.1080/0.0.1920.1040@0.0.1920.1040" timestamp="1588159223311" />
+    <state x="555" y="275" width="800" height="523" key="Vcs.Push.Dialog.v2/1920.0.1920.1080/0.0.1920.1040@0.0.1920.1040" timestamp="1588160244065" />
   </component>
 </project>

@@ -8,7 +8,7 @@ import static org.mockito.Mockito.*;
 
 
 public class MaxKursAnstiegFallTest {
-    private MaxKursAnstiegFall maxKursAnstiegFall;
+    private IMaxKursAnstiegFall maxKursAnstiegFall;
 
     @BeforeEach
     void init(){
