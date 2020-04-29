@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="814e4b96-c6a2-4667-9af1-a7412e954ec6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/kohnlehome/IBoersenReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/kohnlehome/IMaxKursAnstiegFall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/kohnlehome/MaxKursAnstiegFall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/de/kohnlehome/MaxKursAnstiegFallTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="814e4b96-c6a2-4667-9af1-a7412e954ec6" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -115,10 +108,19 @@
       <option name="presentableId" value="Default" />
       <updated>1583863022047</updated>
     </task>
+    <task id="LOCAL-00001" summary="Add Tests">
+      <created>1588159220591</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1588159220591</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="Add Tests" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Tests" />
   </component>
   <component name="WindowStateProjectService">
     <state x="418" y="184" width="800" height="672" key="#Project_Structure" timestamp="1588152649888">
@@ -130,10 +132,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="589" y="227" width="374" height="576" key="#com.intellij.ide.util.MemberChooser/1920.0.1920.1080/0.0.1920.1040@0.0.1920.1040" timestamp="1588157323498" />
-    <state x="558" y="111" width="794" height="851" key="CommitChangelistDialog2" timestamp="1588151908279">
+    <state x="558" y="111" width="794" height="851" key="CommitChangelistDialog2" timestamp="1588159219911">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="558" y="111" width="794" height="851" key="CommitChangelistDialog2/1920.0.1920.1080/0.0.1920.1040@0.0.1920.1040" timestamp="1588151908279" />
+    <state x="558" y="111" width="794" height="851" key="CommitChangelistDialog2/1920.0.1920.1080/0.0.1920.1040@0.0.1920.1040" timestamp="1588159219911" />
     <state x="820" y="439" key="Github.ShareDialog" timestamp="1588151820922">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -142,25 +144,29 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="708" y="247" width="493" height="578" key="Github.UntrackedFilesDialog/1920.0.1920.1080/0.0.1920.1040@0.0.1920.1040" timestamp="1588151864428" />
-    <state width="1899" height="242" key="GridCell.Tab.0.bottom" timestamp="1588158770586">
+    <state width="1899" height="26" key="GridCell.Tab.0.bottom" timestamp="1588159096609">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1586" height="243" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583863408318" />
-    <state width="1899" height="242" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.0.1920.1040@0.0.1920.1040" timestamp="1588158770586" />
-    <state width="1899" height="242" key="GridCell.Tab.0.center" timestamp="1588158770585">
+    <state width="1899" height="26" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.0.1920.1040@0.0.1920.1040" timestamp="1588159096609" />
+    <state width="1899" height="26" key="GridCell.Tab.0.center" timestamp="1588159096596">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1586" height="243" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583863408317" />
-    <state width="1899" height="242" key="GridCell.Tab.0.center/1920.0.1920.1080/0.0.1920.1040@0.0.1920.1040" timestamp="1588158770585" />
-    <state width="1899" height="242" key="GridCell.Tab.0.left" timestamp="1588158770585">
+    <state width="1899" height="26" key="GridCell.Tab.0.center/1920.0.1920.1080/0.0.1920.1040@0.0.1920.1040" timestamp="1588159096596" />
+    <state width="1899" height="26" key="GridCell.Tab.0.left" timestamp="1588159096596">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1586" height="243" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583863408317" />
-    <state width="1899" height="242" key="GridCell.Tab.0.left/1920.0.1920.1080/0.0.1920.1040@0.0.1920.1040" timestamp="1588158770585" />
-    <state width="1899" height="242" key="GridCell.Tab.0.right" timestamp="1588158770585">
+    <state width="1899" height="26" key="GridCell.Tab.0.left/1920.0.1920.1080/0.0.1920.1040@0.0.1920.1040" timestamp="1588159096596" />
+    <state width="1899" height="26" key="GridCell.Tab.0.right" timestamp="1588159096609">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1586" height="243" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583863408317" />
-    <state width="1899" height="242" key="GridCell.Tab.0.right/1920.0.1920.1080/0.0.1920.1040@0.0.1920.1040" timestamp="1588158770585" />
+    <state width="1899" height="26" key="GridCell.Tab.0.right/1920.0.1920.1080/0.0.1920.1040@0.0.1920.1040" timestamp="1588159096609" />
+    <state x="555" y="275" width="800" height="523" key="Vcs.Push.Dialog.v2" timestamp="1588159223311">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="555" y="275" width="800" height="523" key="Vcs.Push.Dialog.v2/1920.0.1920.1080/0.0.1920.1040@0.0.1920.1040" timestamp="1588159223311" />
   </component>
 </project>
